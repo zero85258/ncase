@@ -1,0 +1,7 @@
+Package: ncase
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: Your Name <your_email@example.com>
+Description: A utility for converting naming cases.
